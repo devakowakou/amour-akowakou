@@ -8,6 +8,8 @@ import { useEffect } from "react"
 
 export default function SkillRange({ title, niveau }: { title: string, niveau: number }) {
 
+
+    
     useEffect(() => {
         gsap.registerPlugin(ScrollTrigger)
         gsap.registerPlugin(TextPlugin)
