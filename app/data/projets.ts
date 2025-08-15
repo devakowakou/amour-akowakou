@@ -67,7 +67,7 @@ export const projets = [
         stacks: [7, 24]
     },
     {
-        linkName: 'chadrack-massamba.vercel.app',
+        linkName: 'amour-akowakou.vercel.app',
         imgMockup: '/projet/referencement.png',
         title: "connaissance dans les méthodes de réferencements éfficasse",
         isVideo: false,
