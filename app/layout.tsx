@@ -6,6 +6,7 @@ import SpriteAnimate from "./components/ui/SpriteAnimate";
 import BottomBar from "./components/ui/BottomBar";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://amour-akowakou.vercel.app"), // ✅ ajouté
   title: 'devakowakou - Amour Djiawou AKOWAKOU',
   description: "Découvrez devakowakou, dirigé par Amour Djiawou AKOWAKOU, une communauté dédiée à l'innovation, au développement web et mobile, et au marketing digital.",
   other: {
@@ -56,9 +57,7 @@ export default function RootLayout({
         <link rel="manifest" href="/manifest.json" />
         <meta name="google-site-verification" content="s2T0_JipF3UXFTxuUnLFWHJjuNxOcFg-L8l-X8dYwGs" />
       </Head>
-      <body
-        className={` dark w-full h-full bg-background antialiased`}
-      >
+      <body className="dark w-full h-full bg-background antialiased">
         {children}
         <SpriteAnimate />
         <BottomBar />
