@@ -50,8 +50,7 @@ export default function Hero() {
                 voulez vous que je vous aides à explorer ?
             </Bot>
         </div>
+
     )
 }
-
-// B1 RUE AISA POTO POTO AVENUE DE FRANCE LERRTE DE BUS MUCODO
 
