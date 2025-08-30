@@ -37,7 +37,7 @@ export default function Header() {
                 </div>
                 <div className='navbar-end'>
                     <div className=" flex gap-3"> 
-                        <a href="tel:+242064716383"  >
+                        <a href="tel:+2290158186569"  >
                             <Button className="bg-blue-500 text-white hover:bg-blue-500/60 transition-all">Contactez moi</Button>
                         </a>
                     </div>
