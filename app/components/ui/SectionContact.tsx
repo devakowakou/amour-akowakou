@@ -89,7 +89,7 @@ export default function SectionContact() {
                                             <div className='flex-none text-base-content'>
                                                 <Phone/>
                                             </div>
-                                            <p>‪+242 06 471 63 83‬</p>
+                                            <p>‪+229 58 18 65 65‬</p>
                                         </li>
                                         <li className='flex items-center gap-x-3'>
                                             <div className='flex-none text-base-content'>
@@ -101,7 +101,7 @@ export default function SectionContact() {
                                             <div className='flex-none text-base-content'>
                                                 <Map/>
                                             </div>
-                                            <p>Brazzaville, Congo</p>
+                                            <p>Cotonou, Benin</p>
                                         </li>
                                     </ul>
                                 </div>
