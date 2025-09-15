@@ -15,12 +15,13 @@ export default function Hero() {
             <div className=" flex gap-10 h-full flex-col-reverse md:flex-row items-center  w-full px-10 md:px-5 justify-around">
                 <div className='max-w-md '>
                     <h1 className='text-4xl mb-5  font-extrabold mx-auto md:text-5xl'>
-                        Bienvenue<span className='text-transparent bg-clip-text bg-gradient-to-r from-blue-200 via-blue-500 to-blue-900'> sur Le site du Leader</span>
+                        Bienvenue<span className='text-transparent bg-clip-text bg-gradient-to-r from-blue-200 via-blue-500 to-blue-900'> sur Le site de  Amour Dev</span>
                     </h1>
                     <p className='mb-5'>
-                        Le site des leaders d&lsquo;hier, &lsquo;’aujourd’hui et de demain.
-                        Faites partie de ceux qui inspirent, innovent et laissent une empreinte durable.
-
+                        Bienvenue sur mon univers digital !  
+                        Je suis Amour Akowakou, développeur passionné par le web, le backend et la création de solutions innovantes.  
+                        Explore mes projets, mes compétences et mes réalisations.
+                        Prêt à collaborer ? Contacte-moi pour donner vie à tes idées ! 
                     </p>
                     <Button className=" bg-blue-500 text-white">Contacter nous maintenant</Button>
                 </div>
